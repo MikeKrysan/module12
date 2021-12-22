@@ -32,7 +32,7 @@ public class Main {
         } else {
             try {
                 // Прерываем курицу
-                //chicken.interrupt();
+                chicken.interrupt();
                 // Ждем, пока курица закончит высказываться
                 chicken.join();
             } catch (InterruptedException e) {
