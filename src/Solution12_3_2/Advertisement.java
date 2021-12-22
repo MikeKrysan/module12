@@ -2,7 +2,7 @@ package Solution12_3_2;
 
 public class Advertisement extends Thread {
     public static void show() {
-        System.out.println("Р РµРєР»Р°РјР° - РґРІРёРіР°С‚РµР»СЊ РїСЂРѕРіСЂРµСЃСЃР°!");
+        System.out.println("Реклама - двигатель прогресса!");
     }
 }
 
